@@ -1,5 +1,5 @@
 ## Yatta
-i like ab and c
+i like ab and cd
  
 [![buzz](https://api.statusbadges.me/badge/spotify/1007770665618784276?label=listening%20to&fallback=nothing%20rn&color=FFC0CB)](https://api.statusbadges.me/openspotify/1007770665618784276)
 
